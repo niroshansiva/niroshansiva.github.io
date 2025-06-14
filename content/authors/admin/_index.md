@@ -25,7 +25,7 @@ role: Postdoctoral Scholar
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: The Pennsylvania State University
-    url: https://science.psu.edu/bio/people/nxs5610/
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
