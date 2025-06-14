@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sustainable Food Production
+  - Biomass Conversion
+  - Food Chemistry, especially Carbohydrates
+  - Intrumentation (HPAE-PAD, GC, ICP)
 
 education:
   - area: PhD Artificial Intelligence
