@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Niroshan Siva
+title: Niroshan Siva, Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: The Pennsylvania State University
+    url: https://science.psu.edu/bio/people/nxs5610/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
