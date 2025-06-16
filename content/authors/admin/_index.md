@@ -49,12 +49,12 @@ profiles:
 interests:
   - Sustainable Food Production
   - Biomass Conversion
-  - Food Chemistry, especially Carbohydrates
+  - Food Chemistry
   - Intrumentation (HPAE-PAD, GC, ICP)
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: PhD in Plant and Environmental Sciences
+    institution: Clemson University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
