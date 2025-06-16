@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/all_theses/2745/'
-  - area: Food Chemistry
+  - area: MSc in Plant and Environmental Sciences
     institution: Clemson University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -73,19 +73,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc in Agricultural Technology and Managment (Major in Food Science and Technology)
+    institution: University of Peradeniya, Sri Lanka
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 3.8/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Postdoctoral Scholar
     company_name: GenCoin
     company_url: ''
     company_logo: ''
