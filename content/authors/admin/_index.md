@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Niroshan Siva, Ph.D. c
+title: Niroshan Siva, Ph.D.
 
 # Name pronunciation (optional)
 name_pronunciation: 
