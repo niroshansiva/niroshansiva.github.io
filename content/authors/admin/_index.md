@@ -70,11 +70,11 @@ education:
     date_start: 2015-08-09
     date_end: 2017-08-15
     summary: |
-    Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
-      GPA: 4.0/4.0
+    GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
