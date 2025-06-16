@@ -192,5 +192,7 @@ awards:
 
 ## About Me
 
+<div style="text-align: justify">
 I’m a Food Scientist and currently a Postdoctoral Scholar in the Anderson Lab at The Pennsylvania State University, where I work on the “Food Resilience” project. My research focuses on converting inedible plant biomass into edible, nutrient-rich food ingredients—particularly single-cell foods high in protein and fat. I’m passionate about sustainable food systems, novel food development, and nutrient optimization through innovative processing technologies.
 I’m also a husband, father, brother, and son—with a camera in one hand and a song often in my head. Science is my work, but curiosity is my way of life.
+</div>
