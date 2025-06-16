@@ -72,7 +72,6 @@ education:
     summary: |
       Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     GPA: 4.0/4.0
-
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
