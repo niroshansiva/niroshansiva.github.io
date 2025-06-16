@@ -65,6 +65,15 @@ education:
       text: 'Read Dissertation'
       url: 'https://open.clemson.edu/context/all_dissertations/article/3446/viewcontent/Siva_clemson_0050D_15447.pdf'
     # Supervised by [Prof Joe Smith](https://example.com).
+  - area: PhD in Plant and Environmental Sciences
+    institution: Clemson University
+    date_start: 2015-08-09
+    date_end: 2019-08-19
+    summary: |
+      Dissertation on _Prebiotic Carbohydrate Profiles of Lentil, Chickpea, and Common Bean_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Dissertation'
+      url: 'https://open.clemson.edu/context/all_dissertations/article/3446/viewcontent/Siva_clemson_0050D_15447.pdf'
   - area: MSc in Plant and Environmental Sciences
     institution: Clemson University
     date_start: 2015-08-09
