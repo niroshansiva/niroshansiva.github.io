@@ -110,15 +110,15 @@ work:
       Responsibilities include:
       - Research: Conversion of inedible biomass into edible foods
       - Developing protocols for nutrient analysis in foods and analyzing nutrient composition of biomassderived
-foods to create nutritionally balanced formulations.
+        foods to create nutritionally balanced formulations.
       - Designing and conducting experiments, including hypothesis development, proposal writing, statistical
-analysis, and data collection.
+        analysis, and data collection.
       - Communicating research findings through scientific manuscripts, conference presentations, and
-community outreach.
+        community outreach.
       - Mentoring students by teaching food science instrumentation and guiding undergraduate and
-graduate research.
+        graduate research.
       - Maintaining analytical equipment: High Performance Anion Exchange Chromatography system,
-plate reader, freeze dryer.
+        plate reader, freeze dryer.
       - Lab safety and documentation.lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Lab Aide
     company_name: Clemson University, SC
