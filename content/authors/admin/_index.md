@@ -65,7 +65,7 @@ education:
       text: 'Read Dissertation'
       url: 'https://open.clemson.edu/context/all_dissertations/article/3446/viewcontent/Siva_clemson_0050D_15447.pdf'
     # Supervised by [Prof Joe Smith](https://example.com).
-    - area: MS in Plant and Environmental Sciences
+  - area: MS in Plant and Environmental Sciences
     institution: Clemson University
     date_start: 2015-08-09
     date_end: 2017-08-15
@@ -86,6 +86,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
+      Thesis on _D and Z values of thermal processing to inactivate microorganisms and preserve       vitamin C in king coconut water using mathematical models_
+
       GPA: 3.84/4.0
       
       Courses included:
