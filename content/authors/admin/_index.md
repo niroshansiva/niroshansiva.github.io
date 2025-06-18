@@ -10,8 +10,8 @@ first_name: Niroshan
 last_name: Siva
 
 # Status emoji
-status:
-  icon:
+# status:
+ # icon:
   
 # ☕️
 
@@ -71,11 +71,10 @@ education:
     date_end: 2017-08-15
     summary: |
       Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    GPA: 3.84/4.0
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
-
-      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -191,7 +190,7 @@ awards:
     url: 
     date: '2027-08-01'
     awarder: Annual Conference of American Council for Medicinally Active Plants, Clemson University, SC.
-    icon: 
+    # icon: 
     # summary: |
       Learned:
       - Synthesize your own blockchain solutions
@@ -201,14 +200,14 @@ awards:
     url:
     date: '2014-01-21'
     awarder: University of Peradeniya, Peradeniya, Sri Lanka.
-    icon: 
+    # icon: 
     # summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
     - title: 'University Scholarship for Academic Excellence at the Senior Year'
     url:
     date: '2014-01-21'
     awarder: University of Peradeniya, Peradeniya, Sri Lanka.
-    icon: 
+    # icon: 
     # summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
