@@ -89,48 +89,64 @@ education:
       GPA: 3.84/4.0
       
       Courses included:
-      - FT 3201 Food Chemistry, FT 3202 Food Micorobiolgy, FT3203 Food Preservation
-      - FT 4101 Food Analysis, FT 4103 Food Process Technology, FT 4105 Product Development 
-      - CS 3102 Statistical Methods, CS 3201 Desing and Analysis of Experiments
-      - AS 2102 Principles of Animal Nutrition, AS 3202 Dairy Product Technology
+      - FT 3201 Food Chemistry
+      - FT 3202 Food Micorobiolgy
+      - FT3203 Food Preservation
+      - FT 4101 Food Analysis
+      - FT 4103 Food Process Technology
+      - FT 4105 Product Development 
+      - CS 3102 Statistical Methods
+      - CS 3201 Desing and Analysis of Experiments
+      - AS 2102 Principles of Animal Nutrition
+      - AS 3202 Dairy Product Technology
 work:
   - position: Postdoctoral Scholar
-    company_name: The Pennsylvania State University
+    company_name: The Pennsylvania State University, PA
     company_url: 'https://science.psu.edu/bio/people/nxs5610/'
     company_logo: ''
     date_start: 2020-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Research: Conversion of inedible biomass into edible foods
+      - Developing protocols for nutrient analysis in foods and analyzing nutrient composition of biomassderived
+foods to create nutritionally balanced formulations.
+      - Designing and conducting experiments, including hypothesis development, proposal writing, statistical
+analysis, and data collection.
+      - Communicating research findings through scientific manuscripts, conference presentations, and
+community outreach.
+      - Mentoring students by teaching food science instrumentation and guiding undergraduate and
+graduate research.
+      - Maintaining analytical equipment: High Performance Anion Exchange Chromatography system,
+plate reader, freeze dryer.
+      - Lab safety and documentation.lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Lab Aide
+    company_name: Clemson University, SC
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-11-01
+    date_end: 2020-09-30
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Quantifies volatile short chain fatty acids using gas chromatography (GC-FID).
+      - Evaluates the effect of different premixes in ruminant microbiome and milk fat.
+      - Helps graduate students to conduct their research.
+      - Assists in preparing samples for compositional analysis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Food componant analysis (HPLC, GC, ICP)
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Data Analysis
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Life Cycle Analysis
         description: ''
         percent: 40
         icon: circle-stack
@@ -142,10 +158,10 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Singing
         description: ''
         percent: 100
-        icon: cat
+        icon: mic
       - name: Photography
         description: ''
         percent: 80
@@ -164,30 +180,36 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
+  - title: Winner (Audience prize) and runner up (Judges prize)
+    url: 
+    date: '2021-10-01'
+    awarder: 14th Annual Postdoc Research Exhibition, Pennsylvania State University, PA.
+    icon: PSU
+    # summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
+  - title: First place, Graduate Student Poster Competition
+    url: 
+    date: '2027-08-01'
+    awarder: Annual Conference of American Council for Medicinally Active Plants, Clemson University, SC.
+    icon: 
+    # summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithmdd
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
+  - title: 'Gold Medal for the Course “Business Creation and Management”'
+    url:
+    date: '2014-01-21'
+    awarder: University of Peradeniya, Peradeniya, Sri Lanka.
+    icon: 
+    # summary: |
+      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+    - title: 'University Scholarship for Academic Excellence at the Senior Year'
+    url:
+    date: '2014-01-21'
+    awarder: University of Peradeniya, Peradeniya, Sri Lanka.
+    icon: 
+    # summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
