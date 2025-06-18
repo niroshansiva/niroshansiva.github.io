@@ -181,7 +181,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Winner (Audience prize) and runner up (Judges prize)
-    url: 
+    url: ''
     date: '2021-10-01'
     awarder: 14th Annual Postdoc Research Exhibition, Pennsylvania State University, PA.
     icon: PSU
