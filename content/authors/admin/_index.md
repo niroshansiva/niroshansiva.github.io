@@ -74,7 +74,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
- 
+
       GPA: 4.0/4.0
 
       Courses included:
@@ -86,18 +86,19 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.84/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - FT 3201 Food Chemistry, FT 3202 Food Micorobiolgy, FT3203 Food Preservation
+      - FT 4101 Food Analysis, FT 4103 Food Process Technology, FT 4105 Product Development 
+      - CS 3102 Statistical Methods, CS 3201 Desing and Analysis of Experiments
+      - AS 2102 Principles of Animal Nutrition, AS 3202 Dairy Product Technology
 work:
   - position: Postdoctoral Scholar
-    company_name: GenCoin
-    company_url: ''
+    company_name: The Pennsylvania State University
+    company_url: 'https://science.psu.edu/bio/people/nxs5610/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-10-01
     date_end: ''
     summary: |2-
       Responsibilities include:
