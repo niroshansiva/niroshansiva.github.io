@@ -65,21 +65,22 @@ education:
       text: 'Read Dissertation'
       url: 'https://open.clemson.edu/context/all_dissertations/article/3446/viewcontent/Siva_clemson_0050D_15447.pdf'
     # Supervised by [Prof Joe Smith](https://example.com).
-  - area: MS in Plant and Environmental Sciences
+    - area: MS in Plant and Environmental Sciences
     institution: Clemson University
     date_start: 2015-08-09
     date_end: 2017-08-15
     summary: |
-      Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    GPA: 3.84/4.0
-    button:
-      text: 'Read Thesis'
-      url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
+      Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. 
+
+      GPA: 4.0/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    button:
+      text: 'Read Thesis'
+      url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
   - area: BSc in Agricultural Technology and Managment (Major in Food Science and Technology)
     institution: University of Peradeniya, Sri Lanka
     date_start: 2016-01-01
