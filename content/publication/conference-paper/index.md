@@ -30,7 +30,8 @@ publication_short: In *ICW*
 abstract: Following a global catastrophe causing reduced sunlight, the environment would become unfavorable for crop growth. Under such conditions, people might need to convert inedible plant biomass into food to meet their daily nutritional requirements. However, the possibility of converting biomass into food under low-resource conditions has not been thoroughly studied. To address this uncertainty, we evaluated the potential for using resources available in a typical household to extract sugars from willow biomass and meet the carbohydrate needs of an adult. Grinding willow biomass in a household blender for 24 min produced willow particles similar to those produced in a laboratory-scale Wiley mill. Thermal treatments of these particles with hot water extraction, pressure cooking, or microwaving only extracted 0.5%–0.8% (w/w) glucose from the biomass. Household acid or alkali treatments yielded only 0.5% (w/w) glucose. These sugar yields would be insufficient to provide nutrition to an adult. In contrast, enzymatic hydrolysis of pretreated willow at 50°C for 72 h yielded 2%–8% (w/w) glucose, and pretreating willow with sodium hydroxide and pressure before enzymatic treatment increased glucose yields to 28% (w/w). With this pretreatment approach and subsequent enzymatic conversion, ~1.4 kg of biomass/day could potentially fulfill the energy needs of an adult under post-catastrophic conditions. We posit that while biomass can be successfully pretreated for enzymatic deconstruction at a household level, producing sufficient enzymes for efficient sugar extraction from inedible plant biomass in a post-catastrophic environment might not be feasible at the household scale, thus requiring community-scale infrastructure and coordination.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: After a global catastrophe reducing sunlight, crop growth would suffer, requiring alternative food sources like inedible plant biomass. This study examined whether typical household resources could convert willow biomass into edible sugars. While basic methods like grinding, heating, and chemical treatments extracted less than 1% glucose, enzymatic hydrolysis—especially after sodium hydroxide pretreatment—yielded up to 28% glucose. This could meet an adult’s energy needs with ~1.4 kg of biomass daily. However, producing the necessary enzymes at home is likely unfeasible, suggesting a need for community-level solutions.
+
 
 tags:
   - Biomass Conversion
@@ -41,9 +42,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+url: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
 
-url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
+# url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
 # url_code: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
