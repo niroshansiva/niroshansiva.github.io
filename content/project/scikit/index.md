@@ -1,13 +1,13 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: Functional Foods to Reduce Non-communicalbe Diseases
+date: 2017-09-15
 external_link: https://github.com/scikit-learn/scikit-learn
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Pulses
+  - Functional Foods
+  - Non-communicalbe Diseases
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This project evaluated the ability of lentil foods to reduce obesity risk using rat model.
 
 <!--more-->
