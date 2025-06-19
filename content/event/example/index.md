@@ -60,6 +60,8 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - example
+
+published: false # <-- Add this line
 ---
 
 {{% callout note %}}
