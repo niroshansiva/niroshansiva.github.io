@@ -1,6 +1,6 @@
 ---
 title: Healthy Carbohydrates in Pulses
-date: 2015-09-15 to 2019-09-09
+date: 2015-09-15
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Pulses
