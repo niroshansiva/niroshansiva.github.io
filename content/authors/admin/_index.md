@@ -72,10 +72,10 @@ education:
 
       GPA: 4.0/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
@@ -86,7 +86,7 @@ education:
     summary: |
       Thesis on _D and Z values of thermal processing to inactivate microorganisms and preserve vitamin C in king coconut water using mathematical models_
 
-      GPA: 3.84/4.0
+      GPA: 3.84/4.00
 
       Courses included:
       - FT 3201 Food Chemistry
