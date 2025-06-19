@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Healthy Carbohydrates in Pulses
+date: 2015-09-15 to 2019-09-09
 external_link: https://github.com/pandas-dev/pandas
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Pulses
+  - Prebiotics
+  - Non-communicable Diseases
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Worked on profiling of prebiotic carbohydrates in pulses such as lentil and chickpea and evaluate the changes in the prebiotic profile during food processing.
 
 <!--more-->
