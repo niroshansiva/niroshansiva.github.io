@@ -69,13 +69,6 @@ education:
     date_end: 2017-08-15
     summary: |
       Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_.
-
-      GPA: 4.0/4.0
-
-      # Courses included:
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
     button:
       text: 'Read Thesis'
       url: 'https://open.clemson.edu/cgi/viewcontent.cgi?article=3752&context=all_theses'
