@@ -1,13 +1,13 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Conversion of Inedible Plant Biomass into Foods
+date: 2020-10-01
 external_link: https://github.com/pytorch/pytorch
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Biomass
+  - Novel Foods
+  - Product Development
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+This project is about conversion of inedible plant biomass into foods for emergency situation
 
 <!--more-->
