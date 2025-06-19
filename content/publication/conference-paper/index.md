@@ -42,9 +42,9 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-url: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
+# url: ''
 
-# url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
 # url_code: 'https://onlinelibrary.wiley.com/doi/full/10.1002/fsn3.4358'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_poster: ''
