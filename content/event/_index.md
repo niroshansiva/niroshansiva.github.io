@@ -11,5 +11,5 @@ image:
   caption: ''
   filename: ''
   
-  published: false # <-- Add this line
+  published: false
 ---
