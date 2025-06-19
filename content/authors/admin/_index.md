@@ -3,7 +3,7 @@
 title: Niroshan Siva, Ph.D.
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Niroshan
@@ -11,9 +11,7 @@ last_name: Siva
 
 # Status emoji
 # status:
- # icon:
-  
-# ☕️
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -70,7 +68,7 @@ education:
     date_start: 2015-08-09
     date_end: 2017-08-15
     summary: |
-      Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_. 
+      Thesis on _Lentil Prebiotic Carbohydrates to Reduce the Risk of Obesity_.
 
       GPA: 4.0/4.0
 
@@ -86,17 +84,17 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _D and Z values of thermal processing to inactivate microorganisms and preserve       vitamin C in king coconut water using mathematical models_
+      Thesis on _D and Z values of thermal processing to inactivate microorganisms and preserve vitamin C in king coconut water using mathematical models_
 
       GPA: 3.84/4.0
-      
+
       Courses included:
       - FT 3201 Food Chemistry
       - FT 3202 Food Micorobiolgy
       - FT3203 Food Preservation
       - FT 4101 Food Analysis
       - FT 4103 Food Process Technology
-      - FT 4105 Product Development 
+      - FT 4105 Product Development
       - CS 3102 Statistical Methods
       - CS 3201 Desing and Analysis of Experiments
       - AS 2102 Principles of Animal Nutrition
@@ -108,7 +106,7 @@ work:
     company_logo: ''
     date_start: 2020-10-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - Research: Conversion of inedible biomass into edible foods
       - Developing protocols for nutrient analysis in foods and analyzing nutrient composition of biomassderived
@@ -121,7 +119,7 @@ work:
         graduate research.
       - Maintaining analytical equipment: High Performance Anion Exchange Chromatography system,
         plate reader, freeze dryer.
-      - Lab safety and documentation.lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Lab safety and documentation.
   - position: Lab Aide
     company_name: Clemson University, SC
     company_url: ''
@@ -182,35 +180,35 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
- - title: Winner (Audience prize) and runner up (Judges prize)
+  - title: Winner (Audience prize) and runner up (Judges prize)
     url: ''
     date: '2021-10-01'
     awarder: 14th Annual Postdoc Research Exhibition, Pennsylvania State University, PA.
     icon: PSU
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-- title: First place, Graduate Student Poster Competition
-    url: 
+  - title: First place, Graduate Student Poster Competition
+    url:
     date: '2027-08-01'
     awarder: Annual Conference of American Council for Medicinally Active Plants, Clemson University, SC.
-    icon: 
+    icon:
     summary: |
       Learned:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to
-- title: 'Gold Medal for the Course “Business Creation and Management”'
+  - title: 'Gold Medal for the Course “Business Creation and Management”'
     url:
     date: '2014-01-21'
     awarder: University of Peradeniya, Peradeniya, Sri Lanka.
-    icon: 
+    icon:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-- title: 'University Scholarship for Academic Excellence at the Senior Year'
+  - title: 'University Scholarship for Academic Excellence at the Senior Year'
     url:
     date: '2014-01-21'
     awarder: University of Peradeniya, Peradeniya, Sri Lanka.
-    icon: 
+    icon:
     summary: |
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
